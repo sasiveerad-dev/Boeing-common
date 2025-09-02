@@ -1,1 +1,8 @@
-
+username=DESKTOP-UVVCE5A
+servername=SQLEXPRESS
+dbname=VehicleDB
+vaulturl=http://localhost:8200
+roottoken=root
+secretpath=secret/sqlserversecret
+mountpath=secret
+path=sqlserversecret
